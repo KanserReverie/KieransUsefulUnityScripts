@@ -1,0 +1,1 @@
+Copy and paste these in new projects where you would like to implement a pattern or script.
