@@ -1,0 +1,5 @@
+To Do:
+
+Make Examples Generic
+
+This is so I can copy and paste them in new solutions.
