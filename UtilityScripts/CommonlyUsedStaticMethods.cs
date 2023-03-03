@@ -52,5 +52,14 @@ namespace KieransUsefulUnityScripts.UtilityScripts
         {
             SceneManager.LoadScene(sceneName);
         }
+        
+        /// <summary>
+        /// This will load a scene on top of the current one based on a scene name in the build.
+        /// </summary>
+        /// <param name="sceneName">Name of the scene to load.</param>
+        public static void OpenSceneWithSceneNameAsynchronously(string sceneName)
+        {
+            SceneManager.LoadSceneAsync(sceneName);
+        }
     }
 }
